@@ -1,1 +1,11 @@
-# redme
+# Hello Devs, I’m @hassannouhi <img align='right' src="https://github-readme-stats.vercel.app/api?username=hassannh&show_icons=true&theme=aura"> 
+    
+## How to reach out to me:
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassannouhi/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hassannouhi91@gmail.com)](mailto:hassannouhi91@gmail.com)
+[![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassannh)    
+ #
+ 
+    
+    
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassannh&layout=compact&theme=aura" />
