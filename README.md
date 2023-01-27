@@ -1,6 +1,6 @@
 # Hello Devs, I’m @hassannouhi 
 # i'm currently student @youcode-safi
-#FULLSTUCK DEVLOPPER
+# FULLSTUCK DEVLOPPER
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hassannh&show_icons=true&theme=aura"> 
 ## How to reach out to me:
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassannouhi/)
